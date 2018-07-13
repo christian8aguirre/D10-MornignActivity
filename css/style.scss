@@ -1,20 +1,4 @@
-*{
-    // outline: 2px solid red;
-}
-
-$percentWidthImg: 40px;
-$percentHeightImg: 40px;
-$borderStyle: 1px solid darkgrey;
-$family: sans-serif;
-$sizeTitle: 18px;
-$sizeText: 14px;
-$padding-section:15px 5px;
-$marginTopImg: 10px;
-$marginText: 5px 0;
-$marginTopTime: 15px;
-$colorTwitter: #67a4c9;
-$sizePro: 10px;
-$backColor: #f4f4f4;
+@import "var";
 
 body{
     background-color: $backColor;
